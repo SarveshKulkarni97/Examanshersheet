@@ -1,4 +1,4 @@
-package question;
+package ques;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -23,6 +23,3 @@ public class Example1 {
         sc.close();
     }
 }
-
-
-	
